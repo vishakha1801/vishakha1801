@@ -30,7 +30,6 @@
   
 ## My socials:
 [![Twitter: Vishakha1801](https://img.shields.io/twitter/follow/Vishakha1801?style=social)](https://twitter.com/Vishakha1801)
-[![Linkedin: Vishakha Pathak](https://img.shields.io/badge/linkedin-follow%20Vishakha-yellow)](https://www.linkedin.com/in/vishakha-pathak-b6643b20a/)
 [![GitHub vishakha1801](https://img.shields.io/github/followers/vishakha1801?style=social)](https://github.com/vishakha1801)
 [![Linkedin Badge](https://img.shields.io/badge/-Vishakha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakha-pathak-b6643b20a/)](https://www.linkedin.com/in/vishakha-pathak-b6643b20a/)
 [![Instagram Badge](https://img.shields.io/badge/-vishakhapathak18-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vishakhapathak18/)](https://www.instagram.com/vishakhapathak18/)
