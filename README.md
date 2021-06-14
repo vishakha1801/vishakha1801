@@ -1,14 +1,18 @@
 <h2> Hi there, I'm Vishakha! I'm a third year Computer and Communication at Manipal Institute of Technology<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-  <img width="300" src="https://media.giphy.com/media/XFvrAjthX6yxVY1Ndx/giphy.gif">
+<p>
+  <p>
+    ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-- 🔭 I’m currently working on a full stack task management app using React 
-- 🌱 I’m currently learning Data Visualisation with D3
-- 📫 How to reach me: drop me a mail at vishakhamanojpathak18@gmail.com
-- 😄 Pronouns: she/her
+  - 🔭 I’m currently working on a full stack task management app using React 
+  - 🌱 I’m currently learning Data Visualisation with D3
+  - 📫 How to reach me: drop me a mail at vishakhamanojpathak18@gmail.com
+  - 😄 Pronouns: she/her
+  </p>
+  <p>
+    <img width="300" src="https://media.giphy.com/media/XFvrAjthX6yxVY1Ndx/giphy.gif">
+  </p>
+</p>
 
 
 <h3>Technologies and Languages that I've worked with </h3>
