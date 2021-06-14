@@ -15,9 +15,10 @@
 
 <h3>Technologies and Languages that I've worked with </h3>
   <p align="center">
-    <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="50">
+    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
     <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50">
     <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="50">
+    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
     <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50">
     <img src="https://media.giphy.com/media/wgFWLRiND4bkyYR4IN/giphy.gif" width="50">
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
