@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Vishakha! I'm a third year Computer and Communication at Manipal Institute of Technology<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p align="right">
-  <img width="250" src="https://media.giphy.com/media/XFvrAjthX6yxVY1Ndx/giphy.gif">
+<p align="center">
+  <img width="300" src="https://media.giphy.com/media/XFvrAjthX6yxVY1Ndx/giphy.gif">
 </p>
 
 
