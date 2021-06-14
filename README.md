@@ -26,8 +26,8 @@
   </p>
   
 ## My socials:
-[![Twitter: Vishakha1801](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/Vishakha1801)
-[![Linkedin: Vishakha Pathak](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakha-pathak-b6643b20a/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub vishakha1801](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/vishakha1801)
+[![Twitter: Vishakha1801](https://img.shields.io/twitter/follow/Vishakha1801?style=social)](https://twitter.com/Vishakha1801)
+[![Linkedin: Vishakha Pathak](https://img.shields.io/badge/linkedin-follow%20Vishakha-yellow&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakha-pathak-b6643b20a/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub vishakha1801](https://img.shields.io/github/followers/vishakha1801?style=social)](https://github.com/vishakha1801)
 
 <em><b>I love connecting with new people</b> so if you want to say <b>hi, just hit me up!</b> :)</em>
