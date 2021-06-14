@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Vishakha! I'm a third year Computer and Communication at Manipal Institute of Technology<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center">
-  <img width="250" src="https://gph.is/st/E10j9am">
+  <img width="250" src="https://media.giphy.com/media/XFvrAjthX6yxVY1Ndx/giphy.gif">
 </p>
 
 
@@ -23,11 +23,11 @@
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
     <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50">
     <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50">
-  </p>
+  </p> <h2> ... and many more </h2>
   
 ## My socials:
 [![Twitter: Vishakha1801](https://img.shields.io/twitter/follow/Vishakha1801?style=social)](https://twitter.com/Vishakha1801)
-[![Linkedin: Vishakha Pathak](https://img.shields.io/badge/linkedin-follow%20Vishakha-yellow&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakha-pathak-b6643b20a/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: Vishakha Pathak](https://img.shields.io/badge/linkedin-follow%20Vishakha-yellow)](https://www.linkedin.com/in/vishakha-pathak-b6643b20a/)
 [![GitHub vishakha1801](https://img.shields.io/github/followers/vishakha1801?style=social)](https://github.com/vishakha1801)
 
 <em><b>I love connecting with new people</b> so if you want to say <b>hi, just hit me up!</b> :)</em>
