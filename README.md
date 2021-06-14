@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Vishakha! I'm a third year Computer and Communication at Manipal Institute of Technology<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p align="center">
+<p align="right">
   <img width="250" src="https://media.giphy.com/media/XFvrAjthX6yxVY1Ndx/giphy.gif">
 </p>
 
@@ -13,7 +13,7 @@
 - 😄 Pronouns: she/her
 
 
-<h4>Technologies and Languages that I've worked with </h4>
+<h3>Technologies and Languages that I've worked with </h3>
   <p align="center">
     <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="50">
     <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50">
@@ -23,7 +23,7 @@
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50">
     <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50">
     <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50">
-  </p> <h2> ... and many more </h2>
+  </p> <h4> ... and many more </h4>
   
 ## My socials:
 [![Twitter: Vishakha1801](https://img.shields.io/twitter/follow/Vishakha1801?style=social)](https://twitter.com/Vishakha1801)
