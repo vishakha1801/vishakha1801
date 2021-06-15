@@ -28,7 +28,7 @@
     <img src="https://i.pinimg.com/originals/3a/dd/91/3add91b6689fdc3ecf69b5fa892181d9.gif" width="50">
   </p> <h4> ... and many more </h4>
   
-   like my work? <a href="https://www.buymeacoffee.com/vishakha1801">Buy me a coffee!</a> 
+ like my work? <a href="https://www.buymeacoffee.com/vishakha1801">Buy me a coffee!</a> 
 
 ## My socials:
 [![Twitter: Vishakha1801](https://img.shields.io/twitter/follow/Vishakha1801?style=social)](https://twitter.com/Vishakha1801)
