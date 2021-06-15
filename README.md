@@ -2,7 +2,7 @@
    
    <img align="right" width="300" src="https://media.giphy.com/media/XFvrAjthX6yxVY1Ndx/giphy.gif">
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakha1801&label=Profile%20views&color=0e75b6&style=flat" alt="vishakha1801" style="height: 20px; width: auto;"/> </p>
-   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><h3> A little more about me...  </h3>
+   <img align="left" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><h3> A little more about me...  </h3>
    
   - 🔭 I’m currently working on a full stack task management app using React <br>
   - 🌱 I’m currently learning Data Visualisation with D3 <br>
@@ -27,8 +27,10 @@
     <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width="50">
     <img src="https://i.pinimg.com/originals/3a/dd/91/3add91b6689fdc3ecf69b5fa892181d9.gif" width="50">
   </p> <h4> ... and many more </h4>
-## like my work? <a href="https://www.buymeacoffee.com/vishakha1801">Buy me a coffee!</a> <img src="https://media.giphy.com/media/FoAQVAmLEsOz8DV2HS/giphy.gif" width="50"> 
-## My socials:
+  
+<h2>like my work? </h2> <a href="https://www.buymeacoffee.com/vishakha1801">Buy me a coffee!</a> <img align="right" src="https://media.giphy.com/media/FoAQVAmLEsOz8DV2HS/giphy.gif" width="50"> 
+
+<h2>My socials:</h2>
 [![Twitter: Vishakha1801](https://img.shields.io/twitter/follow/Vishakha1801?style=social)](https://twitter.com/Vishakha1801)
 [![GitHub vishakha1801](https://img.shields.io/github/followers/vishakha1801?style=social)](https://github.com/vishakha1801)
 [![Linkedin Badge](https://img.shields.io/badge/-Vishakha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakha-pathak-b6643b20a/)](https://www.linkedin.com/in/vishakha-pathak-b6643b20a/)
