@@ -28,12 +28,12 @@
     <img src="https://i.pinimg.com/originals/3a/dd/91/3add91b6689fdc3ecf69b5fa892181d9.gif" width="50">
   </p> <h4> ... and many more </h4>
   
-<h2>like my work? </h2> <a href="https://www.buymeacoffee.com/vishakha1801">Buy me a coffee!</a> <img align="right" src="https://media.giphy.com/media/FoAQVAmLEsOz8DV2HS/giphy.gif" width="50"> 
+   like my work? <a href="https://www.buymeacoffee.com/vishakha1801">Buy me a coffee!</a> 
 
-<h2>My socials:</h2>
-[![Twitter: Vishakha1801](https://img.shields.io/twitter/follow/Vishakha1801?style=social)](https://twitter.com/Vishakha1801)
-[![GitHub vishakha1801](https://img.shields.io/github/followers/vishakha1801?style=social)](https://github.com/vishakha1801)
-[![Linkedin Badge](https://img.shields.io/badge/-Vishakha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakha-pathak-b6643b20a/)](https://www.linkedin.com/in/vishakha-pathak-b6643b20a/)
-[![Instagram Badge](https://img.shields.io/badge/-vishakhapathak18-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vishakhapathak18/)](https://www.instagram.com/vishakhapathak18/)
+   <h2>My socials:</h2>
+   [![Twitter: Vishakha1801](https://img.shields.io/twitter/follow/Vishakha1801?style=social)](https://twitter.com/Vishakha1801)
+   [![GitHub vishakha1801](https://img.shields.io/github/followers/vishakha1801?style=social)](https://github.com/vishakha1801)
+   [![Linkedin Badge](https://img.shields.io/badge/-Vishakha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishakha-pathak-b6643b20a/)](https://www.linkedin.com/in/vishakha-pathak-b6643b20a/)
+   [![Instagram Badge](https://img.shields.io/badge/-vishakhapathak18-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/vishakhapathak18/)](https://www.instagram.com/vishakhapathak18/)
 
 <em><b>I love connecting with new people</b> so if you want to say <b>hi, just hit me up!</b> :)</em>
