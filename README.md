@@ -27,7 +27,7 @@
     <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width="50">
     <img src="https://i.pinimg.com/originals/3a/dd/91/3add91b6689fdc3ecf69b5fa892181d9.gif" width="50">
   </p> <h4> ... and many more </h4>
-  
+##like my work? <a href="https://www.buymeacoffee.com/vishakha1801">Buy me a coffee!</a> <img src="https://media.giphy.com/media/FoAQVAmLEsOz8DV2HS/giphy.gif" width="50" 
 ## My socials:
 [![Twitter: Vishakha1801](https://img.shields.io/twitter/follow/Vishakha1801?style=social)](https://twitter.com/Vishakha1801)
 [![GitHub vishakha1801](https://img.shields.io/github/followers/vishakha1801?style=social)](https://github.com/vishakha1801)
