@@ -1,11 +1,9 @@
-<h2> Hi there, I'm Vishakha! I'm a third year Computer and Communication student at Manipal Institute of Technology<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi there, I'm Vishakha! I'm a graduate student at Carnegie Mellon University! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
    
    <img align="right" width="300" src="https://media.giphy.com/media/XFvrAjthX6yxVY1Ndx/giphy.gif">
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakha1801&label=Profile%20views&color=0e75b6&style=flat" alt="vishakha1801" style="height: 20px; width: auto;"/> </p>
    <img align="left" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><h3> A little more about me...  </h3>
    
-  - 🔭 I’m currently working on a full stack task management app using React <br>
-  - 🌱 I’m currently learning Data Visualisation with D3 <br>
   - 📫 How to reach me: drop me a mail at vishakhamanojpathak18@gmail.com <br>
   - 😄 Pronouns: she/her 
   
