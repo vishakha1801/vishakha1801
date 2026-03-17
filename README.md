@@ -29,8 +29,6 @@ I'm a product-minded engineer with a passion for building user-focused, intuitiv
 - 😄 Pronouns: she/her
 - 📫 [vishakhamanojpathak18@gmail.com](mailto:vishakhamanojpathak18@gmail.com)
 
-<br clear="right" />
-
 ---
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> &nbsp;Tech Stack
