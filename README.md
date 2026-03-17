@@ -1,19 +1,19 @@
-<h1>Hi! I'm Vishakha<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h1>
-
-<p><strong>CMU Alum</strong> · Product & Frontend Engineer · <em>Open to Opportunities</em></p>
-
-<p>
-  <a href="https://www.linkedin.com/in/vishakha-pathak-b6643b20a/">
-    <img src="https://img.shields.io/badge/LinkedIn-vishakha--pathak-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/vishakha1801">
-    <img src="https://img.shields.io/github/followers/vishakha1801?style=flat-square&label=GitHub&logo=github&color=181717" />
-  </a>
-  <a href="mailto:vishakhamanojpathak18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-reach%20me-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=vishakha1801&label=profile%20views&color=0e75b6&style=flat-square" />
-</p>
+<h1 align="center">Hi! I'm Vishakha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /></h1>
+<div align="center">
+  <p><strong>CMU Alum</strong> · Product & Frontend Engineer · <em>Open to Opportunities</em></p>
+  <p>
+    <a href="https://www.linkedin.com/in/vishakha-pathak-b6643b20a/">
+      <img src="https://img.shields.io/badge/LinkedIn-vishakha--pathak-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/vishakha1801">
+      <img src="https://img.shields.io/github/followers/vishakha1801?style=flat-square&label=GitHub&logo=github&color=181717" />
+    </a>
+    <a href="mailto:vishakhamanojpathak18@gmail.com">
+      <img src="https://img.shields.io/badge/Email-reach%20me-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=vishakha1801&label=profile%20views&color=0e75b6&style=flat-square" />
+  </p>
+</div>
 
 ---
 
