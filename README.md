@@ -1,29 +1,28 @@
-<h2 align="center">Hi! I'm Vishakha 🌻</h2>
+<h2 align="center">hi! i'm vishakha 🌻</h2>
 <div align="center">
-  <p><strong>CMU Alum</strong> · Product & Frontend Engineer · <em>Open to Opportunities</em></p>
-  
----
+  <p><strong>cmu alum</strong> · product & frontend engineer</p>
+</div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32"> &nbsp;About Me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32"> &nbsp;about me
 
 <img align="right" width="44%" src="https://media.giphy.com/media/XFvrAjthX6yxVY1Ndx/giphy.gif" />
 
-I am a product-minded engineer with a passion for building user-focused, intuitive interfaces. I recently graduated from **Carnegie Mellon University**, and bring hands-on industry experience where I have worked across the stack with a strong emphasis on frontend engineering and product thinking. I care deeply about the intersection of design and engineering, and I am always looking for ways to make technology more accessible and delightful.
+i am a product-minded engineer with a passion for building user-focused, intuitive interfaces. i recently graduated from **carnegie mellon university**, and bring hands-on industry experience where i have worked across the stack with a strong emphasis on frontend engineering and product thinking. i care deeply about the intersection of design and engineering, and i am always looking for ways to make technology more accessible and delightful.
 
-- 🎓 M.S. graduate, **Carnegie Mellon University**
-- 🔍 Currently open to full-time opportunities in product & frontend engineering
-- 🌱 Always exploring new technologies and design patterns
-- 😄 Pronouns: she/her
+- 🎓 m.s. information systems @ **carnegie mellon university** · b.s. computer science @ **mit manipal**
+- 🔍 currently open to full-time opportunities in product & frontend engineering
+- 🌱 always exploring new technologies and design patterns
+- 😄 pronouns: she/her
 - 📫 [vishakhamanojpathak18@gmail.com](mailto:vishakhamanojpathak18@gmail.com)
 
 ---
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> &nbsp;Let's Connect
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> &nbsp;let's connect
 
-I love meeting new people — whether you want to collaborate, chat about product & engineering, or just say hi.
+i love meeting new people — whether you want to collaborate, chat about product & engineering, or just say hi.
 
 <p>
-  <a href="https://www.linkedin.com/in/vishakha-pathak-b6643b20a/">LinkedIn</a> ·
-  <a href="https://github.com/vishakha1801">GitHub</a> ·
-  <a href="mailto:vishakhamanojpathak18@gmail.com">Email</a> 
+  <a href="https://www.linkedin.com/in/vishakha-pathak-b6643b20a/">linkedin</a> ·
+  <a href="https://github.com/vishakha1801">github</a> ·
+  <a href="mailto:vishakhamanojpathak18@gmail.com">email</a>
 </p>
