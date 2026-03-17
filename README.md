@@ -21,7 +21,7 @@
 
 <img align="right" width="44%" src="https://media.giphy.com/media/XFvrAjthX6yxVY1Ndx/giphy.gif" />
 
-I'm a product-minded engineer with a passion for building user-focused, intuitive interfaces. I recently graduated from **Carnegie Mellon University**, and bring hands-on industry experience from **Optum**, Capgemini, and eFeed — where I've worked across the stack with a strong emphasis on frontend engineering and product thinking. I care deeply about the intersection of design and engineering, and I'm always looking for ways to make technology more accessible and delightful.
+I am a product-minded engineer with a passion for building user-focused, intuitive interfaces. I recently graduated from **Carnegie Mellon University**, and bring hands-on industry experience where I have worked across the stack with a strong emphasis on frontend engineering and product thinking. I care deeply about the intersection of design and engineering, and I am always looking for ways to make technology more accessible and delightful.
 
 - 🎓 M.S. graduate, **Carnegie Mellon University**
 - 🔍 Currently open to full-time opportunities in product & frontend engineering
