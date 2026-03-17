@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Vishakha 🌻</h1>
+<h2 align="center">Hi! I'm Vishakha 🌻</h2>
 <div align="center">
   <p><strong>CMU Alum</strong> · Product & Frontend Engineer · <em>Open to Opportunities</em></p>
   <p>
